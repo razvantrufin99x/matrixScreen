@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrixScreen", "matrixScreen\matrixScreen.csproj", "{3B8DAB84-B90B-4A22-8123-D98656570AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8DAB84-B90B-4A22-8123-D98656570AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8DAB84-B90B-4A22-8123-D98656570AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8DAB84-B90B-4A22-8123-D98656570AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8DAB84-B90B-4A22-8123-D98656570AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC494CBF-EF47-4650-A093-C1CC7BE3D0C2}
+	EndGlobalSection
+EndGlobal
